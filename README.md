@@ -4,7 +4,7 @@ Esse projeto em laravel traz as resoluções dos testes 2 e 3, sintetizei os doi
 As rotas são:
 
 * `GET /github-search`, Consulta as informações de um usuário pela api do GitHub;
-* `GET /consult-cep` Consulta dados na API ViaCep, com a pssobilidade de consultar vários ceps e fazer a exportação em CSV dos dados;
+* `GET /consult-cep` Consulta dados na API ViaCep, com a possibilidade de consultar vários ceps e fazer a exportação em CSV dos dados;
 
 
 ## Instalação
