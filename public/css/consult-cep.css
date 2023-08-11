@@ -1,0 +1,31 @@
+
+.cep-table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+.cep-table th,
+.cep-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.cep-table th {
+    background-color: #f2f2f2;
+}
+
+.buttons {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.buttons button {
+    margin: 0 10px;
+    padding: 8px 16px;
+    background-color: #3490dc;
+    color: white;
+    border: none;
+    cursor: pointer;
+}

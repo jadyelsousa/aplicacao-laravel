@@ -1,0 +1,24 @@
+.space {
+    margin: 20px 0;
+}
+
+.user-profile {
+    text-align: center;
+}
+
+.avatar {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto 10px;
+    display: block;
+}
+
+.user-info {
+    text-align: center;
+}
+
+.error {
+    color: #ff0000;
+    text-align: center;
+}
